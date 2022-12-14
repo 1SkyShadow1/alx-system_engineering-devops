@@ -1,6 +1,2 @@
 #!/bin/bash
-$ find . -name "." -empty -printf "%f\n" -exec echo ""
-
-file_1
-
-file_2
+find . -name "." -empty -printf "%f\n" -exec echo ""
