@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "." -empty -exec cat {} \;
+find . -name "." -empty -printf "%f\n" -exec echo ""
