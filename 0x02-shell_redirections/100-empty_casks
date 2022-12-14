@@ -1,2 +1,6 @@
 #!/bin/bash
-find . -name "." -empty -printf "%f\n" -exec echo ""
+$ find . -name "." -empty -printf "%f\n" -exec echo ""
+
+file_1
+
+file_2
