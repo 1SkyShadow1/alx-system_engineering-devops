@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-#This script prints it own pid
+#Script Displays it's own pid
 
- echo $$
+echo $$
