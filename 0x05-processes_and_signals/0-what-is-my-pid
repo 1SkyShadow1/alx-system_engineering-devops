@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #Script Displays it's own pid
 
 echo $$
